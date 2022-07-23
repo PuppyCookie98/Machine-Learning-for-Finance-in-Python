@@ -5,3 +5,5 @@
   - Models: Logistic Regression,SVC,KNN,Naive Bayes,Decision Tree,Random Forest 
 
 ## Project: Corporate Credit Assessment (in progress) 
+
+## Project: Sentiment Analysis for Stock Market (in progress) 
